@@ -1,0 +1,24 @@
+
+#css{
+ text-align: center;
+ background-color: yellow;
+
+}
+
+#ProcurarProduto{
+ margin: center; /* esse cara vai centralizar*/
+ max-width: 800px; /* a largura máxima para o seu menu, para que ele possa ser centralizado. */
+background-color: yellow;
+
+}
+#AdicionarProduto{
+ margin: center; /* esse cara vai centralizar*/
+ max-width: 800px; /* a largura máxima para o seu menu, para que ele possa ser centralizado. */
+background-color: yellow;
+background: yellow;
+}
+#selecionar{
+	position: absolute;
+	left: 200px;
+	top: 200px;
+}
