@@ -106,7 +106,8 @@ var txt = e.options[e.selectedIndex].text;
                 </tr>
  
             </tbody>
-         </table>
+        </table>
+        
  
      </div>
  </div> <!-- /#list -->
